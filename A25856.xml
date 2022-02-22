@@ -1,0 +1,409 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Humble praise, offered up in the publick solemnity, June the 28th 1660 being a day of thanksgiving for His Majesties happy restauration / by T.A. ...</title>
+            <author>T. A. (Thomas Arnold)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25856</idno>
+            <idno type="STC">Wing A3733</idno>
+            <idno type="STC">ESTC R10901</idno>
+            <idno type="EEBO-CITATION">12032282</idno>
+            <idno type="OCLC">ocm 12032282</idno>
+            <idno type="VID">52765</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25856)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52765)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 884:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Humble praise, offered up in the publick solemnity, June the 28th 1660 being a day of thanksgiving for His Majesties happy restauration / by T.A. ...</title>
+                  <author>T. A. (Thomas Arnold)</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Luke Fawne ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Greek at head of title: Tapein Ain Os.</note>
+                  <note>Epistle signed: Tho. Arnold.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Daniel --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52765:1"/>
+            <pb facs="tcp:52765:1" rendition="simple:additions"/>
+            <p>ΤΑΠΕΙΝΑΙΝΟΣ, Humble Praiſe, Offered up in the Publick Solemnity, <hi>June</hi> the 28<hi rend="sup">th</hi> 1660.</p>
+            <p>Being a day of Thanksgiving for his Majeſties happy Reſtauration.</p>
+            <p>By <hi>T. A.</hi> an unwothy Servant of the Lord Jeſus Chriſt in the work of the Goſpel.</p>
+            <q>
+               <hi>Non Deus humiles quibus dat gratiam ante datam hu<g ref="char:EOLunhyphen"/>miles invenit; ſed dando gratiam humiles facit; hoc ipſum enim, gratiam, Deus per gratiam donat, ut quiſ<g ref="char:EOLhyphen"/>quis eam acceperit humiles fiat.</hi> 
+               <bibl>Fulg. 2. 41.</bibl>
+            </q>
+            <q>The humble ſhall ſee this and be glad, and your heart ſhall live that ſeeke God.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Luke Fawne,</hi> at the Sign of the <hi>Parrot</hi> in S. <hi>Pauls Church-yard,</hi> 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:52765:2"/>
+            <pb facs="tcp:52765:2"/>
+            <head>
+               <hi>To the Right Honourable, Sir</hi> EDWARD HYDE <hi>K<hi rend="sup">t.</hi> Lord Chancellor of</hi> England, <hi>One of his Majeſties moſt Honourable Privy Council.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>IT's a ſafe Rule, that Stateſmen muſt have no more anger then will ſerve their deſign; for ſubjection to powerful wrath is dangerous both <hi>ab intra,</hi> being a conſtant diſeaſe, a fire that commonly conſumes the houſe where firſt it kindles; and <hi>ab extra,</hi> it betrayes to ignoble acts, and the unavoidable cenſure of the Soveraign. The laſt Century hath been too fruitful in ſuch inſtances.</p>
+            <p>And herein Prudence ſpeaks her Mother tongue, and hath learnt it from Religion, which further ſaith, <hi>Ira ſimulata charitas vera.</hi> Let Anger be the dark ſha<g ref="char:EOLhyphen"/>dow, Love the beautiful body, the one to fright the evil from their wayes, and deliver from death; the other cor<g ref="char:EOLhyphen"/>dially and conſtantly endeavouring every mans peace, comfort, and joy. This is living in <hi>love,</hi> and living in <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>&amp;c. N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>pectu jacundius quam bonorum virorum con<g ref="char:EOLhyphen"/>ſ. nſus.</hi> Plat. <hi>in</hi> 2 <hi>Epiſt.</hi>
+               </note> 
+               <hi>God.</hi> Oh that all the Subjects of our Soveraign Lord were thus qualified, for advancing his Title <hi>King of Saints.</hi> We have too long obſerved what Factions have done for us, and for themſelves. In patience the reaſon<g ref="char:EOLhyphen"/>able Soul may be poſſeſſed, which the diſtemper of impa<g ref="char:EOLhyphen"/>tience doth turn out to the courteſie of others, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> una<g ref="char:EOLhyphen"/>wares it's taken away. If Luſt unto deſtruction were a
+<pb facs="tcp:52765:3"/> neceſſary or lawfull concernment of Mankind, there would be leſs need of an able Miniſtry.</p>
+            <p>
+               <hi>My Lord,</hi> as I dare not here touch your <hi>Honours Name,</hi> choiceſt Pictures are not for Tents and Boothes, ſo I cannot ſmother this common ſence; for its general<g ref="char:EOLhyphen"/>ly noted in your Honour with great applauſe, that your conſtant carriage doth rebuke the envy of thoſe that would better conform to his Majeſties Royal pleaſure by endeavours for union.</p>
+            <p>I have good reaſon for this, and all dutiful Addreſſes to your Honour; for my native Soyl is the Inheritance of your noble and renowned Family, my Chriſtian name, with admiſſion to the viſible Church, and divers com<g ref="char:EOLhyphen"/>forts of my life, I owe your near <hi>Relations,</hi> and as I may aſſert faithfulneſs, from former Generations; ſo I ſhall moſt gladly engage me and mine.</p>
+            <closer>
+               <signed>
+                  <hi>Your Honours in all Duty and Service,</hi> Tho. Arnold.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:52765:3"/>
+            <epigraph>
+               <bibl>DANIEL 6. 10.</bibl>
+               <q>
+                  <hi>Now when</hi> Daniel <hi>knew that the Writing was ſigned, he went into his houſe, and his window being open in his Chamber toward Jeruſalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.</hi>
+               </q>
+            </epigraph>
+            <p>FOr a Preface to this Text, take the Hiſtory of the Penman.</p>
+            <p n="1">1. His Deſcent was Noble, Of the ſeed Royal of <hi>Judah,</hi> Thought meet for a Cour<g ref="char:EOLhyphen"/>tier to the greateſt Earthly Monarch of his <note place="margin">Cap. 1. 3.</note> time, and choſen Secretary to the King of Kings.</p>
+            <p n="2">2. His Attainment was admirable, whether, 1. Na<g ref="char:EOLhyphen"/>tural, he was a lovely lad, in whom was no blemiſh, <note place="margin">Cap. 1. 4.</note> as the Spouſe of Chriſt, all fair without ſpots; and as this is the ground of natural love, uniting the heart of <hi>Shekem</hi> to <hi>Dinah,</hi> and <hi>Jacob</hi> to <hi>Rachel;</hi> ſo 'tis likewiſe of ſpiritual 'twixt Chriſt and his Spouſe, God and his Church (perfectly beautified with his own comlineſs) <note place="margin">Ezek. 16.</note> and eternal love ſprings hence alſo; for as horrid de<g ref="char:EOLhyphen"/>formity cauſeth that helliſh rage in the damned to one another, and themſelves, ſo celeſtial beauties (ſhining with the rayes of divine glory) move hea<g ref="char:EOLhyphen"/>venly delight, called by the Apoſtle, <hi>The bond of per<g ref="char:EOLhyphen"/>fection.</hi> Love is the golden chain that doth unite glori<g ref="char:EOLhyphen"/>fied Saints together. 2. His acquired parts are no <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Septuagint.</hi>
+               </note> leſs rare, as <hi>Moſes</hi> was as learned as <hi>Aegypt</hi> could make him, ſo <hi>Daniel</hi> wanted no <hi>Chaldean</hi> accompliſhment, which had now engroſſed the excellencies of all neigh<g ref="char:EOLhyphen"/>bour Nations. He was fraught with all wiſdom, un<g ref="char:EOLhyphen"/>derſtanding
+<pb n="2" facs="tcp:52765:4" rendition="simple:additions"/> 
+               <hi>Science,</hi> skilful in Letters, and the rareſt <hi>Tongues.</hi> Now in this pure and well prepared gold was ſet the Jewel; for, 3. His inſpired Attainment graces all, an excellent ſpirit is found in him, the ſpirit of the holy gods, ſaid the <hi>Magicians,</hi> who onely had fami<g ref="char:EOLhyphen"/>liarity with the gods that dwelt with fleſh, ſuch as the Witch of <hi>Endor</hi> conjured out of the Earth: But as his name <hi>Daniel</hi> ſignifies the wiſdome or judgement of God, and <hi>Nebuchadnezzar</hi> called him <hi>Belteſhazzar,</hi> after the name of his god, ſo he was incomparably inſpired by the onely wiſe God.</p>
+            <p n="3">3. His Preferment begins this Chapter, and who can better deſerve it then our <hi>Daniel.</hi> God promotes his ſervants by heathen Princes, and 'tis the intereſt of greateſt Monarchs to advance ſuch, for it's an ho<g ref="char:EOLhyphen"/>nour to them as the name of Chriſt is blaſphemed by diſordered Chriſtians, the treacherous carriage of ſuch hath hardned the Turks againſt Chriſt, and a lewd ſervant is the ſhame of his Maſter (for if his lewdneſs ſpeaks his Maſters temper, 'tis the greateſt diſgrace; and if his Maſter cannot ſpeak him into bet<g ref="char:EOLhyphen"/>ter manners, 'tis none of the leaſt) ſo 'tis an honour to be nobly ſerved. Beſides, they are moſt faithful; <hi>Oba<g ref="char:EOLhyphen"/>diah</hi> is a good Steward to <hi>Ahab,</hi> none in the Court more careful to the King <hi>Ahaſuerus,</hi> nor ſo ready to diſcover Traytors as <hi>Mordecai. Artaxerxes</hi> is loath to have good <hi>Nehemiah</hi> his Cup-bearer go from his el<g ref="char:EOLhyphen"/>bow. And moreover, they ordinarily bring a bleſſing with them, this <hi>Laban</hi> got by <hi>Jocob's</hi> ſervice, and <hi>Potiphar;</hi> but eſpecially <hi>Pharaoh</hi> by <hi>Joſeph's.</hi>
+            </p>
+            <p n="4">4. In the next place we read of his danger, the cauſe whereof is envy; he was now lifted up and made the fairer mark. <hi>Joſeph's</hi> gay Coat was a light to the Ar<g ref="char:EOLhyphen"/>chers that ſhot ſo ſorely at him. Perſons in great pla<g ref="char:EOLhyphen"/>ces are commonly ſtruck at. The Adverſarie's plot is
+<pb n="3" facs="tcp:52765:4"/> this, by irreligion they would ſhew their loyalty, all the Courtiers were confederate herein; but theſe were <hi>Perſians</hi> that worſhip the Moon, (the emblem of worldly vanity) and will do any thing for their god the world: No wonder then if ſome Court flyes a<g ref="char:EOLhyphen"/>mong us of the like diſpoſition are ſo fruitful in like <note place="margin">
+                  <hi>From</hi> May 29. <hi>to</hi> June 28. <hi>is just</hi> 30 <hi>dayes.</hi>
+               </note> devotions, and have neither troubled God nor man, ſo much as his Majeſty with their Petitions, during theſe thirty dayes, ſince <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> turn home. Our Monarch may vye Petitions with theirs, though to their Caeſar was engroſſed Gods part alſo, which with ours is ſacred.</p>
+            <p n="5">5. Here in the Text is his practice in his danger; godly exerciſe, and cloſe walking with God.</p>
+            <p n="6">6. His reward twofold; 1. Evil from his Adver<g ref="char:EOLhyphen"/>ſaries, who caſt him into the Lions den. 2. Good from God and the King, who preſerved and promoted him.</p>
+            <p n="7">7. And laſtly, his great End accompliſhed, Gods honour is advanced and eſtabliſhed by the Kings de<g ref="char:EOLhyphen"/>cree.</p>
+            <p>The Text is fairly tranſlated, He that will make no ſtrife, ſhall find none here, allowing onely variety of terms to ſeveral Tranſlators.</p>
+            <p>The Text opened, ſhews us <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, godlineſs in ſeveral parts, with their harmonious dependance.</p>
+            <p n="1">1. Conſtancy; but to be conſtant and faithful, there's required ſeverity, and ſtrength of ſpirit; this he wants not, for</p>
+            <p n="2">2. Here's his ſecrecy; He goes into his houſe. Some reſervations are inconſiſtent with honeſty; but here's no unhandſom ſhift, or treacherous concealment; for</p>
+            <p n="3">3. Behold his faith, looking (through his opened window) to Jeruſalem, and the Temple. And is he not over confident? is not this preſumption? no, for</p>
+            <p n="4">4. See his humility; he is upon his knees. Though a complement doth not alwayes declare humility, yet many acts do a habit; for this</p>
+            <p n="5">
+               <pb n="4" facs="tcp:52765:5"/> 5. Obſerve his frequency in duty, three times a day, but are his addreſſes according to the divine will? Yes, witneſs,</p>
+            <p n="6">6. His piety, his ſervice is holy, conſiſting of theſe two parts, Prayer and Praiſe. But is he as thankful now as formerly, when in greateſt ſtate? doth not his dan<g ref="char:EOLhyphen"/>ger ſhorten this part? no,</p>
+            <p n="7">7. Laſtly, His alacrity and equanimity is ſeen, in ſer<g ref="char:EOLhyphen"/>ving and praiſing God now as he did aforetime.</p>
+            <p>Now becauſe <hi>Wiſdoms words</hi> are <hi>ſweet</hi> to the <hi>ſoul,</hi> and variety makes a feaſt; let us touch every flower in the <hi>Text,</hi> and <hi>taſte</hi> the <hi>hony</hi> that our <hi>eyes</hi> may be <hi>inlightned.</hi>
+            </p>
+            <p>The writing was ſigned, ſo we read, and <hi>Tremelius</hi> 
+               <note place="margin">
+                  <hi>Exeratum illud ſcriptum eſſet,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Sept. <hi>Statutum decre<g ref="char:EOLhyphen"/>tum cum cogno<g ref="char:EOLhyphen"/>viſſet.</hi>
+               </note> (that learned Jew) and divers other Tranſlators with us: The Septuagint (of great authority in the new Teſtament) read it, the Decree was eſtabliſhed, all to one ſence; and <hi>Daniel</hi> knew it, or had taken full know<g ref="char:EOLhyphen"/>ledge of it, yet he adventures to his devotions: hence note,</p>
+            <p>1. The greateſt dangers and difficulties, cannot ter<g ref="char:EOLhyphen"/>rifie a godly ſoul from his duty. Here are three good witneſſes near at hand (and his companions) who will <note place="margin">Dan. 3.</note> not give Gods glory to another, nor his praiſe to gra<g ref="char:EOLhyphen"/>ven Images, but will rather offer themſelves a burnt ſacrifice then he ſhall want a ſervice; and this is from, 1. The law of God, his enemies had got a law againſt him, which he will rather ſatisfie with his blood, then deny God his bodily ſervice. It's ſafer to obey God then man. Princes have great power in their com<g ref="char:EOLhyphen"/>mands; upon the command of <hi>Jacob</hi> and <hi>Abner,</hi> the young men ſport away their lives to pleaſe their Ge<g ref="char:EOLhyphen"/>nerals. It's ſaid, the Grand Signeur (to entertain an Ambaſſadour) commanded one of his Train to ride (in full career over a ſteep cliff) into the Sea, and then asked the Ambaſſador how many ſuch ſervants his
+<pb n="5" facs="tcp:52765:5"/> Maſter had. Our Lord hath many ſuch ſervants, we have <hi>Daniel, Paul,</hi> and many Worthies more. 2. Their <note place="margin">Heb. 11. Rev. 6.</note> love likewiſe doth move them thereunto; this is ſtrong as death, it crops the faireſt flowers in their prime, it brings ſtrength and beauty to duſt and aſhes in amo<g ref="char:EOLhyphen"/>rous perſons of both ſexes. The wives of dead hea<g ref="char:EOLhyphen"/>thens have contended (urging before the judges, their love and loyalty that they might burn with the bodies of their deceaſed husbands) and is ſpiritual love leſs powerful? ſurely no. <hi>Paul</hi> counted not his life dear for Chriſts ſake, and <hi>Peters</hi> love at laſt con<g ref="char:EOLhyphen"/>ſtrained <note place="margin">Acts 20. 24.</note> him to follow his Maſter in the like death, though a ſadder ſpectacle being crucified with his head down-ward: and</p>
+            <p>3. The ſence of Gods love to them, makes them thus valiant. <hi>Stephen</hi> reſigned his ſoul to this revelati<g ref="char:EOLhyphen"/>on. <note place="margin">Acts 7.</note> The goodſhip fears neither ſtorms nor tempeſts if it hath Sea room enough. Gods love is not onely a Fountain, but an Ocean; and <hi>Paul</hi> concludes, that neither depths nor death can ſeparate a godly ſoul <note place="margin">Rom. 8. ult.</note> there from.</p>
+            <p>Therefore let us be incouraged to zeal, and Chriſtian valor, what thou wanteſt in comfortable experiences, make up in faith. Chriſt is the Captain of our ſalvati<g ref="char:EOLhyphen"/>on, <note place="margin">Heb. 2. 11.</note> and we his Souldiers, and what makes ſouldiers adventerers in a field-fight; or ſtorm, not ſo much their preſent pay and maintenance, as the Generals promiſe of Victory, Honour, Booty, and Preferment; there<g ref="char:EOLhyphen"/>fore <note place="margin">Heb. 3. 12.</note> this caution is added, <hi>Take heed leſt there be in any of you an evil heart of unbelief, in departing from the living God.</hi> If we believe not Gods promiſes, we ſhall be terrified with the hardſhips of his ſervice. Yet <hi>Da<g ref="char:EOLhyphen"/>niel</hi> is wiſe and retires himſelf.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>2</label> Whence note, Gods ſervans are ſerious and ſecret in his ſervice. The rule of Chriſt would lead us not <note place="margin">Mat. 6. 6.</note>
+               <pb n="6" facs="tcp:52765:6" rendition="simple:additions"/> onely into the Houſe, and Chamber, but cloſet. Vain-glory in Religion is an undoubted ſign of hypo<g ref="char:EOLhyphen"/>criſie. Men do their beſt before thoſe from whom they expect their reward. <hi>Jehu</hi> will boaſt of his zeal, and ſhew it to the world; he hath therefore the better ac<g ref="char:EOLhyphen"/>ceptance with men, and the leſs with God. The <hi>Phari<g ref="char:EOLhyphen"/>ſees</hi> in their religious duties, had this aim to be ſeen of men, and they had their expected reward.</p>
+            <p>Let's preſent an inſtance, 'tis better then a Play, or May-pole.</p>
+            <p>Here's one ſtands in the corners of the ſtreets, or <note place="margin">Mat. 6. 5. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>In quibus fere habentur homi<g ref="char:EOLhyphen"/>num conventus.</hi> B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>za.</note> rather angles, turnings, and croſs wayes, to be ſeen four ways; 'tis the <hi>forum</hi> or market where the greateſt concourſe of people is. The people flock about him and thus admrie, ſee what a holy man he is, what a devout look he hath, what markes of mortification are in his face. Look <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his <note n="*" place="margin">A Plate of Braſs upon his brows, with the Dialogue in<g ref="char:EOLhyphen"/>ſcribed.</note> Frontlet, he hath the Law and fear of God before his eyes, what a demure po<g ref="char:EOLhyphen"/>ſture he ſtands in, (no butter ſhall melt in his mouth, for he faſts) behold his religious habit, his large Phi<g ref="char:EOLhyphen"/>lacteries on the Hemme and borders of his Garment; <note place="margin">Hence was a ſuperſtitious reſpect for the Hemme of the Garment.</note> there's holineſs to the <hi>Lord,</hi> and many divine ſentences wrought, take notice of his patience and canſtancy, he hath ſtood here a great while, he makes long and ma<g ref="char:EOLhyphen"/>ny prayers.</p>
+            <p>From this obſervation, the people are alarum'd away with a <hi>Trumpet</hi> ſounding a call; why, whats the mat<g ref="char:EOLhyphen"/>ter? O there's a <hi>merciful</hi> man doing his <hi>alms,</hi> and 'tis pitty but the world ſhould know how good a man he is, what a bountiful alms is here, this is a noble Bene<g ref="char:EOLhyphen"/>factor, his charity declares that his ability is great; a great man and a good man, this is a Rabbi indeed.</p>
+            <p>And this is their uſual courſe in their Synagogues, ever ſabbath in the midſt of their ſervice (after the law written in parchment Roles is carried about, and kiſſed <note place="margin">Ipſe vidi.</note>
+               <pb n="7" facs="tcp:52765:6"/> by all the people, as the wiſe Papiſts kiſs their Croſſes, Images, &amp;c.) they have a collection for the Prieſt, and the Collector (while gathering) turns to the Prieſt, and tels aloud every mans gift, and the Prieſt or Levite bleſſes him accordingly. But the truly reli<g ref="char:EOLhyphen"/>gious man is better retired: for he ſeeks the honour that comes from God <hi>alone;</hi> he that hath rarities for the King, will not open them in the way to the Court. Chriſts ſpouſe is a beauty, that will not be blown up<g ref="char:EOLhyphen"/>on. 'Tis held in Philoſophy, that the motion of the <note place="margin">Stellae motus uon editſonum; Sancti non ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ſonantes.</note> Stars is without noiſe. True Saints are not ſounding <hi>braſs,</hi> or tinkling <hi>cymbals</hi> that have but one note, no muſical variety that makes a noiſe without melody.</p>
+            <p>But though he be within doors his faith flyes out; his windows were open; they ſeldom ſhut their windows thereabouts, for they have white <hi>ceiled</hi> houſes, little <note place="margin">
+                  <hi>Hag.</hi> 1. 4.</note> windows, and no glaſs, and he looks to <hi>Ieruſalem</hi> and the Temple: Where Note, <hi>Faith is an ingredient to all Chriſtian ſervices.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>3</label> The <hi>Temple</hi> here prefigured <hi>Chriſt,</hi> and how they agree we ſhall ſee. As upon Al<g ref="char:EOLhyphen"/>legories, Parables, and Similitudes, there may be an unhappy uſe of invention; (for particulars in ſuch caſes, beſides the ſcope, are not argumentative) ſo we muſt diligently regard the main parts of reſemblance.</p>
+            <p n="1">1. It was an inſtitution that the Temple ſhould be re<g ref="char:EOLhyphen"/>ſpected <note place="margin">1 <hi>King.</hi> 8.</note> in Prayer, as doth plentifully appear in the dedication thereof: So the Lord ſaid concerning his Son, <hi>Look</hi> unto him and be <hi>ſaved;</hi> and him had <hi>Jonah</hi> reſpect to under the type: for we reade, That he look<g ref="char:EOLhyphen"/>ed towards the Temple, when he was in the depth of <note place="margin">
+                  <hi>Iona</hi> 2. 4.</note> the Sea, and had loſt the points of the Compaſs, he could not know Eaſt from Weſt; beſides he was in the dark cave of the Whales belly, and was muffled and blind folded with weeds wrap't about his head:
+<pb n="8" facs="tcp:52765:7"/> This then was onely the working of his faith, towards the ſeat and center of Gods mercy, which is really Je<g ref="char:EOLhyphen"/>ſus Chriſt, and in Goſpel language is called our <hi>ap<g ref="char:EOLhyphen"/>proach</hi> to God through <hi>him,</hi> and asking in his name.</p>
+            <p n="2">2. The Temple was the rareſt piece in the world, for materials and workmanſhip, the moſt rich and beauti<g ref="char:EOLhyphen"/>ful building; no ſuch ſtately and magnificent ſtructure as the Lords houſe. The ſecond Temple, that was yet nothing to <hi>Solomons,</hi> was admirable in Chriſts time, 'twas glorious for outward glory, &amp; holy for external ſanctity: ſo our Lord Jeſus, the rareſt piece that ever the worlds eye ſaw, the faireſt amongſt men, never the like made of fleſh and blood. The Church ſets him out to ſtrangers in his colours of <hi>white and red,</hi> and his <note place="margin">
+                  <hi>Cant.</hi> 5. 10.</note> 
+               <hi>office</hi> a <hi>Standard bearer,</hi> which we corruptly read the <hi>chiefeſt:</hi> The goodlieſt perſon in the Hoſt is choſen to bear the Royal Standard, and his imployment is his higheſt grace. They that look no higher then his per<g ref="char:EOLhyphen"/>ſonal appearance ſhall never now his worth; but be<g ref="char:EOLhyphen"/>lievers lift up their eyes and ſee him diſplaying the Royal <hi>Enſign</hi> of divine favour; and here's his glory.</p>
+            <p n="3">3. The Temple was ſo holy that it ſanctified the gifts, the Gold and other oblations were hallowed by its holineſs. So our Lord Jeſus doth our ſervices, though ſeemingly as pure as gold, yet they will not paſs above, without his image upon them. To our prayers there goes his incenſe, if he takes not up our <note place="margin">
+                  <hi>Rev.</hi> 8. 3.</note> names, in vain do we his.</p>
+            <p n="4">4. The Temple was graced with the preſence of God this was the choſen habitation of the mighty God of <hi>Iacob. Ionah</hi> ſaid his prayer came in unto him in his holy Temple; hither he appointed all the Males to come three times a year to meet him. Here <hi>Iſaiah</hi> be<g ref="char:EOLhyphen"/>held his Majeſty, and <hi>David</hi> his beauty, who hath re<g ref="char:EOLhyphen"/>courſe <note place="margin">
+                  <hi>Iſai.</hi> 6. 1. <hi>Pſal.</hi> 27. 4.</note>
+               <pb n="9" facs="tcp:52765:7"/> to a Temple-revelation, when he would <note place="margin">
+                  <hi>Pſal.</hi> 63. 3. 4.</note> have his wiſh his fill of God. And this Chriſt owns to <hi>Philip, If thou haſt ſeen me, thou haſt ſeen the Fa<g ref="char:EOLhyphen"/>ther.</hi> 
+               <note place="margin">
+                  <hi>Iob.</hi> 14. 8.</note> The Godhead is inſeparably united to the Man hood in Chriſt, who is the medium for commu<g ref="char:EOLhyphen"/>nion between God and man, witneſs his own words, <hi>Thou father in me, and I in them.</hi> God <note place="margin">
+                  <hi>Iob.</hi> 17.</note> gives us a meeting in <hi>grace</hi> which we embrace by <hi>faith</hi> in <hi>Chriſt.</hi>
+            </p>
+            <p n="5">5. From the Temple came the bleſſing; ſo <hi>David, They ſhall be abundantly ſatisfied with the</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 36.</note> 
+               <hi>fatneſs of thy Houſe,</hi> 'twas the place of dole; here the Lord commanded the bleſſing. In his Temple did every man ſpeak of his <hi>honour,</hi> be<g ref="char:EOLhyphen"/>cauſe there they received his <hi>favour.</hi> Now this is Chriſts ſingular prerogative, as without him we can do nothing, ſo receive nothing, all comforts and ſpiritual bleſſings (promoting us to heavenly <note place="margin">2 <hi>Cor.</hi> 1. 4. <hi>Epheſ.</hi> 1. 6.</note> places) we have through him, he entertains our faith with heavenly delicates, joy unſpeakable, <note place="margin">Fides gratia &amp; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>peratio dei, qua deus credi<g ref="char:EOLhyphen"/>tur, vita purga<g ref="char:EOLhyphen"/>tur &amp; anima conſolatur.</note> ſome <hi>Grapes</hi> of <hi>Canaan, firſt-fruits</hi> of glory, the very <hi>ſubſtance</hi> of things hoped for, though ſo little that 'tis but the <hi>evidence</hi> of things not ſeen.</p>
+            <p n="6">6. Chr<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> makes a likeneſs 'twixt his dying body, and the Temples overthrow: <hi>Solomons</hi> was de<g ref="char:EOLhyphen"/>ſtroyed, and another re-edified, with this promiſe; The glory of the <hi>ſecond</hi> Temple ſhall be greater then the <hi>firſt;</hi> which was true in Chriſt, who ſaith, <hi>Deſtroy this Temple, and in three dayes I will raiſe it up;</hi> and this he ſpake of his body, which ſhall now dye no more; and how glorious 'tis, thoſe that have ſeen him him ſince his aſcenſion (as <hi>Ste<g ref="char:EOLhyphen"/>phen</hi> 
+               <note place="margin">
+                  <hi>Acts</hi> 7. <hi>ult. &amp;</hi> 22. 6. 11. <hi>Rev.</hi> 1. 13. 14, 15, 16.</note> at his diſſolution, <hi>Paul</hi> at his converſion, and <hi>Iohn</hi> in his Revelation) will give ſome light.
+<pb n="10" facs="tcp:52765:8"/> And hereby we obtain this comfortable hope, <note place="margin">Tanta erit diſparitas inter corpus ſpiritu<g ref="char:EOLhyphen"/>ale &amp; naturale, quanta ſit inter corpus naturale &amp; ſemen gene<g ref="char:EOLhyphen"/>rationis. Obſerv.</note> that our bodies (that ſhall be) will as far exceed theſe in glory, as theſe their ſeed, or duſt whereof they are made. But though his faith be high, his geſture is lowly and meek, he is upon his knees.</p>
+            <p>4. Whence we conclude, Our duty to God muſt be performed with humility; We muſt ſerve the Lord with reverence, and <hi>James</hi> injoyns it in ſe<g ref="char:EOLhyphen"/>veral <note place="margin">
+                  <hi>Sam.</hi> 4. 9. 10.</note> of his terms, be <hi>afflected, mourn, weep, humble</hi> your ſelves in the ſight of God, and he ſhall lift you up. Our geſture in Prayer muſt declare an humbled heart; 'tis ſuperſtitious to tye up our ſelves to any one geſture. The Phariſees as we have heard, <hi>ſtood</hi> praying, and Chriſt approves that poſture (ſaying) when he <hi>ſtand</hi> praying, for<g ref="char:EOLhyphen"/>give. <note place="margin">
+                  <hi>Mar.</hi> 11. 25.</note> 
+               <hi>Daniel</hi> kneeled, with many others (both dutiful poſtures) the ſervant ſtands before his Maſter, the ſubject kneels before his Soveraign; we read much in Scripture of another poſture <hi>pro<g ref="char:EOLhyphen"/>ſtration,</hi> lying on the face, conſtantly uſed by the Turks unto this day. Again,</p>
+            <p>5. Pious ſouls are frequent in holy duties; The <note place="margin">Obſerv.</note> Turks fill their Moſques, or Temples ſeven times a day in their Cities, to our ſhame. The Papiſts juſtly upbraid us with negligence and lukewarm<g ref="char:EOLhyphen"/>neſs. A <hi>fervent</hi> ſpirit, a heart hot in love gadly <note place="margin">
+                  <hi>Rom.</hi> 12. 11. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>in most Copies, and 'tis rejected for this miſta<g ref="char:EOLhyphen"/>ken ſence, that Chriſtians muſt be time-ſervers. Pſal.</hi> 55. 17, 22, 29, 92, 14.</note> embraces every <hi>opportunity</hi> to diſcover it ſelf. At evening, morning, and at noonday will; * I pray, ſaid holy <hi>David.</hi> They that be fat ſhall <hi>eat,</hi> and <hi>worſhip.</hi> When we ſerve our ſelves of the creatures, we ſhould remember to ſerve the Creator. Cor<g ref="char:EOLhyphen"/>pulent bodies have left iſſue, and are ſooneſt bar<g ref="char:EOLhyphen"/>ren; but <hi>fat</hi> ſouls in <hi>old</hi> age are moſt <hi>fruitful:</hi> but what's the duty?</p>
+            <pb n="11" facs="tcp:52765:8"/>
+            <p> 6. Prayer is a daily exerciſe of Gods people, (moſt uſeful in times of danger and diſtreſs) 'twas that which firſt drove man to God, when <hi>En<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh</hi> 
+               <note place="margin">
+                  <hi>Gen.</hi> 4. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> (ſignifying calamitous man) was born, then be<g ref="char:EOLhyphen"/>gan men to call upon the name of the Lord. It's a flower that ſprings from the miry pit of affliction. The Iſraelites <hi>preſſures</hi> made them <hi>groan;</hi> thus God tels <hi>Moſes,</hi> I have <hi>ſeen</hi> their <hi>affliction, and</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 69. 1. 2. &amp; 130. 1. <hi>Hoſ.</hi> 5. 15.</note> 
+               <hi>heard</hi> their <hi>cry.</hi> God <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> makes the day of evil for this end; he calls it a ſeaſonable, an acceptable time, when he is near, and promiſes help and de<g ref="char:EOLhyphen"/>liverance. Chriſt withdrew his inviſible ſupport from <hi>Peter</hi> to have his Prayer, and when the earthen Veſſel was ſinking, and the waters com<g ref="char:EOLhyphen"/>ing in upon his ſoul, this divine air and holy breath bubled forth, Lord <hi>ſave</hi> me, I <hi>periſh:</hi> We conclude this, remembring Chriſt to <hi>Thomas,</hi> Thou haſt ſeen the evil day, and haſt prayed, but bleſſed are they that (live in this air, and) frequent this duty, in their beſt and happieſt dayes. In the midſt of thy comforts, thou haſt cauſe enough to come to God by Prayer.</p>
+            <p>And now have we made way to the laſt <hi>Obſer<g ref="char:EOLhyphen"/>vation,</hi> the moſt proper <hi>ſubject</hi> for this day, <hi>Da<g ref="char:EOLhyphen"/>niels</hi> praiſe: And the truth hence is,</p>
+            <p n="7">7. The moleſtations of Gods people do not <note place="margin">Obſerv.</note> obſtruct his praiſe; this is evident in <hi>Iob,</hi> a perfect <note place="margin">
+                  <hi>Iob.</hi> 1. 21.</note> man, very great in grace, and goods; in an hour he hears of the loſs of cattel, ſervants, children and all, he rents his mantle, and looks upon himſelf ſtript, as <hi>naked</hi> as when he was born, and yet cryes out, <hi>Bleſſed be the name of the Lord.</hi>
+            </p>
+            <p>The next witneſs is <hi>David,</hi> a man beloved of <note place="margin">
+                  <hi>Pſal.</hi> 42.</note> God, born to a Kingdom, accuſtomed to holy
+<pb n="12" facs="tcp:52765:9" rendition="simple:additions"/> ſolemnities, and joyful feaſts, ſtript of all his com<g ref="char:EOLhyphen"/>forts, baniſht from Gods worſhip (ſo dear to him) pierc't with the Adverſaries reproach (that cryed, where's thy God?) yet in this condition he ſtirs up his ſoul to an exerciſe of <hi>praiſe.</hi> We have like<g ref="char:EOLhyphen"/>wiſe the teſtimony of <hi>Paul</hi> and <hi>Silas,</hi> who recei<g ref="char:EOLhyphen"/>ved <note place="margin">
+                  <hi>Acts</hi> 16. 25.</note> many ſtripes, were caſt into Priſon, and there ſet in the ſtocks; yet at <hi>midnight,</hi> the dead time of the night, they <hi>ſang</hi> praiſe to God.</p>
+            <p>To confirm this truth, We have three Argu<g ref="char:EOLhyphen"/>ments from the remains of comfort, four from the fruit of ſanctified trouble: And laſtly, the command of God. God ſeldom takes all, thou maiſt find neceſſaries abiding: Now,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>1</label> Ingratitude under the enjoyment of neceſſaries, is very unchriſtian; But God affords thee neceſ<g ref="char:EOLhyphen"/>ſaries: If thou doſt doubt this, compare thy com<g ref="char:EOLhyphen"/>forts with Gods ſervants in former ages. We can<g ref="char:EOLhyphen"/>not find that they eat any fleſh before the flood, (when they lived ſo long) and divers learned men conclude the contrary, and with good rea<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>See <hi>Iacobs</hi> condition, an heir of the bleſſing, <note place="margin">
+                  <hi>Gen.</hi> 28.</note> thou canſt not have a worſe lodging, the blew heavens are his Canopy, the earth his bed, and the ſtones his pillow, and here he indented with God, (and conditioned to ſerve him during life) for <hi>bread</hi> to eat, and <hi>rament</hi> to put on. Is <hi>Elijah's</hi> repaſt <note place="margin">1 <hi>King</hi> 19. 6.</note> beyond thy reach, a cake baken on the coals, and a curſe of water? Canſt thou not entertain thy friend as well as the old Propht? a man of quality, who called back the young prophet, and it's like ſet the beſt before him (for it was a dear banquet to the young man, it coſt him his life, and what
+<pb n="13" facs="tcp:52765:9"/> was it but bread and water? Haſt thou not a hand<g ref="char:EOLhyphen"/>ful of parched corn to eat, nor a draught of water <note place="margin">1 <hi>Kin.</hi> 13. 19.</note> to drink, <hi>Hagars</hi> refreſhment? which Chriſt va<g ref="char:EOLhyphen"/>lues and ſayes it ſhall be <hi>rewarded,</hi> therefore thank<g ref="char:EOLhyphen"/>fully received. But to leave times and places ſo remote; 'Tis true we have a good Land, wherein more periſh by wantonneſs then want; with meat <note place="margin">In licitis peri<g ref="char:EOLhyphen"/>mus.</note> (the <hi>workmanſhip</hi> of God) our bodies are deſtroy<g ref="char:EOLhyphen"/>ed, rather then with hunger. The Peaſantry in <hi>France,</hi> the mountaneers in <hi>Scotland,</hi> and the wilde <note place="margin">Who live by trifoyl or hony<g ref="char:EOLhyphen"/>ſuckle-graſs eaten raw with a little of their butter.</note> 
+               <hi>Iriſh,</hi> would make the meaneſt amongſt us thank<g ref="char:EOLhyphen"/>ful. But we'l imagine the want of neceſſaries, for 'tis poſſible though rare, and yet conclude thou haſt life, and thence reaſon, to the praiſe of God.</p>
+            <p>The enjoyment of the greateſt temporal mercy, will render ingenious Chriſtians grateful.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>2</label> But natural life is the greateſt temporal mercy: <hi>Ergo,</hi> This we have from Chriſts own mouth (when he rebukes their needleſs care for accom<g ref="char:EOLhyphen"/>modations) <note place="margin">
+                  <hi>Luk.</hi> 12. 23.</note> The <hi>life</hi> is more then <hi>meat,</hi> and the <hi>body</hi> is more then <hi>rayment,</hi> life is the capacity, the end and ſum of all other comforts. 'Tis the firſt, and the laſt, we willingly redeem it (when endan<g ref="char:EOLhyphen"/>gered) with the loſs of our ſubſtance, we ſpare not skin, fleſh, or limb to preſerve life, lancings, and <note place="margin">
+                  <hi>Iob</hi> 2. 4.</note> cutting, cures we undergo to ſave it. Life in Scrip<g ref="char:EOLhyphen"/>ture is called a <hi>prey,</hi> which is alwayes taken (after the fight in victory) with <hi>joy</hi> and ſhouting. See how this mercy is prized by a hopeleſs offender, pardoned at the place of execution. But a godly ſoul may loſe his living, and life too; what remains beyond this to the praiſe of God? <hi>An.</hi> His Grace.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>3</label> Where true Grace is, there is the greateſt cauſe of thankfulneſs. But the children of God have
+<pb n="14" facs="tcp:52765:10"/> true grace, they have the immortal ſeed, the di<g ref="char:EOLhyphen"/>vine nature, the ſpirit of Chriſt, and the life of God, therefore muſt needs be thankful. This <hi>Paul</hi> ſpeaks home to, Having, ſaith he, acceſs into this Grace wherein we ſtand, we rejoyce in hope <note place="margin">
+                  <hi>Rom.</hi> 5. 2. 3.</note> of the glory of God, and <hi>glory</hi> in tribulations. Oh Chriſtian; what cauſe haſt thou to be thankful, couldſt thou underſtand thine eſtate, thy portion? We tell you of Crowns, and Kingdoms, to raiſe an apprehenſion which yet never comes near it: We read of a City paved with Gold, walled with <note place="margin">
+                  <hi>Rev.</hi> 21.</note> precious Stones, twelve Gates, twelve intire <note place="margin">Nihil in in<g ref="char:EOLhyphen"/>tellectu quod non fuit prius in ſenſu.</note> Pearls, becauſe the ſoul is inſtructed by ſenſe even in things inviſible. One ſayes, the compilers of the Turkiſh Alcaron formed their Paradiſe (of choice Gardens, delicate fruits, rare beauties, reſtored virginities, and the like carnal delights) <note place="margin">Non quod ipſi it a putârunt ſed quid alias vulgo afficere non potuerunt.</note> rather from the heathen <hi>Poets,</hi> then the <hi>Iew</hi> and <hi>Monk</hi> aſſiſtant; not becauſe thus perſwaded them<g ref="char:EOLhyphen"/>ſelves, but otherwiſe they could not affect the people. And therefore the Jews could receive no more then temporal promiſes and poſſeſſions, be<g ref="char:EOLhyphen"/>cauſe ſo long beſotted with Aegyptian ſenſual comforts, and becauſe ſo prone to Idolatry, God ſhamed their Idols with Temple-glory: As that was typical to them, ſo all that the world and Mi<g ref="char:EOLhyphen"/>niſtry can ſay, is but metaphorical and ſhadowy to the bright glory that ſhall be revealed. Thou knoweſt (Chriſtian friend) that thou canſt not alwayes lay-out the poſſeſſion of thy experiences in divine praiſes, how then canſt thou deal with the reverſion. The recompence of Gods righteouſ<g ref="char:EOLhyphen"/>neſs on us, calls for our higheſt admirations, ex<g ref="char:EOLhyphen"/>preſſions can go no further.</p>
+            <pb n="15" facs="tcp:52765:10" rendition="simple:additions"/>
+            <p> Now from the fruits of ſanctified trouble, we plead for Gods praiſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>4</label> That which diſcovers our relation to Chriſt ſhould move us to thankfulneſs: But moleſtations <note place="margin">
+                  <hi>Ioh.</hi> 16. <hi>ult.</hi>
+               </note> and troubles evidence this; they are the common badge of Chriſtianity, every <hi>mark</hi> of our high calling is a <hi>prize,</hi> and the deeper the ſcar, the more honourable. This was <hi>Pauls</hi> evidence, his Reli<g ref="char:EOLhyphen"/>gion <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Gal.</hi> 6. 17.</note> might be read in theſe characters, the <hi>markes</hi> of the Lord Jeſus born in his body, he was ſo ſtigmatized and branded, for Chriſt that 'twas eaſie to know whoſe he was. Well ſaid that old <note place="margin">Ignatius. <hi>Qui non cru<g ref="char:EOLhyphen"/>ciatus non Christianus.</hi>
+               </note> primitive Saint, Now I begin to be a Chriſtian, when his bones were cruſhing between the teeth of wild beaſts. Settlement on the Lees, and con<g ref="char:EOLhyphen"/>ſtant pomp is rather for <hi>Dives</hi> then <hi>Daniel.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>5</label> What makes us more gracious, ſhould make us more grateful: But moleſtations improve grace. Difficulties makes virtue heroick, and graces glo<g ref="char:EOLhyphen"/>rious, as wind to the fire makes the flame mount high. So Chriſt, when I am lifed up (in my ſuf<g ref="char:EOLhyphen"/>fering) my graces ſhall ſo ſhine, that I'l gain and draw all men to me. His Croſs was but the buſh ſet out to the beſt wine. They bring forth the quiet fruits of righteouſneſs. The Land that is beſt plowed is moſt fruitful. When <hi>Paul</hi> inſiſts upon <note place="margin">
+                  <hi>Rom.</hi> 5. 2, 3, 4.</note> the pedigree, and runs with grace in the; He ſaies, the root and original is tribulation. <hi>David</hi> feared not the roaring waters, ſhaking Mountains, and <note place="margin">
+                  <hi>Pſal.</hi> 46. 3, 4.</note> moſt terrible tempeſts; for there was a <hi>River,</hi> the ſtreams whereof made <hi>glad</hi> the City of God. We gladly endure the falling of great ſtorms after a drought, that ſo the ſprings may riſe: and <hi>Iames</hi> wills the rich to <hi>rejoyce,</hi> in that he is made <hi>low,</hi> and <note place="margin">
+                  <hi>Jam.</hi> 1. 10.</note>
+               <pb n="16" facs="tcp:52765:11"/> adds the reaſon, becauſe as the flower of the graſs he ſhall paſs away. The flowers fading in our boſome, tell us what our joyes and life will come to.</p>
+            <p>The vanity of our ſubſtance, doth teach us the mortality of our bodies, and prepares us for im<g ref="char:EOLhyphen"/>mortal glory.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>6</label> What deſtroyes ſin ſhould increaſe praiſe; but Tribulations make Chriſtians leſs ſinful, therefore more thankful: Thunder and Lightning conſume unwholſome vapours, and clear the air. Gold in the fire loſeth onely its droſs, and ſharp winters kill the weeds. God ſaith, His people were <hi>carri<g ref="char:EOLhyphen"/>ed</hi> away, and kept in <hi>Babylon</hi> for their <hi>good.</hi> Fleſh <note place="margin">Jer.</note> will bide longeſt ſweet in cold weather. If he <hi>hedges</hi> up our way in ſin, with <hi>thornes</hi> of trouble, <note place="margin">
+                  <hi>Hoſ.</hi> 2.</note> we may be thankful. He is wiſe, and can deſtroy the cauſe with its own effect, ſin with ſorrow. The Scorpions oyl cures the Scorpions ſting. We ſhould therefore kiſs the rod; for if we were not <hi>chaſtened</hi> of the Lord, we ſhould run on in ſin, and <note place="margin">Periiſſem niſi perijſſem.</note> be condemned with the world.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>7</label> That which will make our praiſes more high and heavenly in the Kingdom of God, ſhould make us in a good degree thankful here. But our Tribulations and ſorrows will advance our praiſes there: <hi>Ergo,</hi> For this take the report of him, that often ſaw what was done above,: <hi>John</hi> in his <hi>Re<g ref="char:EOLhyphen"/>velation</hi> ſaw a company in <hi>white</hi> Robes, and <hi>palms</hi> 
+               <note place="margin">
+                  <hi>Rev.</hi> 7.</note> of victory in their hands, before the Throne, and the Lamb crying with a loud voice, <hi>Salvation, bleſsing, glory, wiſdome, thanksgiving, honour, po<g ref="char:EOLhyphen"/>wer,</hi> and <hi>might,</hi> be to the <hi>Lord,</hi> and the <hi>Lamb</hi> for ever. <hi>John</hi> wonders who theſe are, that are ſo
+<pb n="17" facs="tcp:52765:11"/> high in the praiſe of God; he asked one of the heavenly hoſt that ſtood by, who returns this an<g ref="char:EOLhyphen"/>ſwer; Theſe are they that came out of great <hi>Tri<g ref="char:EOLhyphen"/>bulations</hi> &amp;c. The <hi>wrath</hi> of man is here turned to the praiſe of God by the ſaved ones. The Prodi<g ref="char:EOLhyphen"/>gals miſery made the muſick: He was <hi>loſt,</hi> and is <hi>found,</hi> was the burden of the <hi>Song.</hi>
+            </p>
+            <p>It's noted by one, That Princes are commonly unhappy in this, that nothing is rare to them, their diſtance is ſo little from all comforts, that they cannot ripen a deſire before the enjoyment comes; herein our King is the happieſt under heaven. <hi>Cla<g ref="char:EOLhyphen"/>rior è tenebris</hi> is his alſo. Therefore the Saints that <hi>ſleep</hi> in Chriſt, ſhall have more glory then they that are found <hi>alive,</hi> and changed at his com<g ref="char:EOLhyphen"/>ing, becauſe every mercy takes it riſe and height from the depth of former miſery; diſſolution makes the reſurrection exceeding glorious.</p>
+            <p>Laſtly, to ſtrengthen the former cords, and bind this <hi>ſacrifice</hi> of <hi>praiſe,</hi> to the horns of the <hi>Altar;</hi> Conſider, God requires it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>8</label> Now, True Chriſtians faithfully apply them<g ref="char:EOLhyphen"/>ſelves to the diſcharge of every duty: But cheer<g ref="char:EOLhyphen"/>fulneſs and thankfulneſs in every condition is a Chriſtians duty. Had we no other argument, this were ſufficient. It is the expreſs will of God, that <note place="margin">
+                  <hi>Phil.</hi> 4. 6.</note> we ſhould <hi>rejoyce</hi> evermore, and in every thing <hi>give thanks</hi> joyfull<g ref="char:punc">▪</g> as well as mournful confeſ<g ref="char:EOLhyphen"/>ſions, are his inſtitutions. He will not have an evil report, brought upon a good land; others diſ<g ref="char:EOLhyphen"/>couraged from piety, for want of joy, his com<g ref="char:EOLhyphen"/>mands we muſt not diſpute, but obey. This ſhould not ſtick betwixt God and a Chriſtian, as was
+<pb n="18" facs="tcp:52765:12"/> ſaid to <hi>Naaman,</hi> If the Prophet had bid thee do ſome great matter, thou woulſt have done it: how much more, when he ſaith, <hi>Waſh and be clean;</hi> if God had enjoyned a difficult and dangerous ſer<g ref="char:EOLhyphen"/>vice, wouldſt thou have diſobeyed him? What command can be more acceptable then this, Be <hi>joyful,</hi> be <hi>thankful.</hi>
+            </p>
+            <p>Some rational <hi>inferences</hi> from theſe demonſtra<g ref="char:EOLhyphen"/>tions will conclude our work.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>
+               </label> To condemn ingratitude: 'tis odious to huma<g ref="char:EOLhyphen"/>nity, inconſiſtent with Chriſtianity; But not to hover in generals; There are three ſorts cenſured by this truth, that refuſe, with-hold, or leſſen praiſe. 1. Murmurers, that cannot bear the abate<g ref="char:EOLhyphen"/>ment even of ſuperfluities, which ſinfully repine at the loſs of thoſe things that they cannot law<g ref="char:EOLhyphen"/>fully enjoy. The proud <hi>Lady</hi> frets, if ſhe want <note place="margin">
+                  <hi>Iſa.</hi> 3: 18, 19, 20, &amp;c.</note> any of that <hi>bravery,</hi> and thoſe <hi>ornaments,</hi> whereat the <hi>Lord</hi> chides when he ſees them on. Pluck fea<g ref="char:EOLhyphen"/>thers from young birds, and the blood follows. The Iſraelites were ſick of this pet in the wilder<g ref="char:EOLhyphen"/>neſs; they could not be content with the Lords allowance, though he gave them Angels food, <hi>bread</hi> of his own making, we have nothing but this Manna, ſaid they: We eat fleſh in Aegypt, who who ſhall give us fleſh to eat? They asked meat for their luſt, and as there was ſin in the deſire, ſo there was judgment in the grant. They get <hi>Quails,</hi> a rare bird, a ſecond-courſe diſh, for <hi>luſt</hi> and not for hunger; but while the meat was in their mouthes, the wrath of God fell upon them to their deſtruction. <hi>Phyſitians</hi> ſay, that Quails are a dangerous meat, for they breed the Epilepſie, or
+<pb n="19" facs="tcp:52765:12" rendition="simple:additions"/> falling-ſickneſs. They did eat, and fell, and the meat wrought out at their Noſtrils. Thoſe that ſeek things for themſelves, (eſpecially in doubtful times) and deſpiſe the day of ſmal things, are none of Gods people. 2. But ſay ſome, this doth not reach me, I diſdain no mercies be they never ſo mean, but my comforts are ſo ſmall, my ſpirits ſo low, my heart ſo careful, that I am unfit for an exerciſe of praiſe, and ſeldom excited hereunto. Theſe are negligently ungrateful, ſuch were the <hi>Lepers.</hi> Before they were cleanſed they could beg, now they have nothing to move charity, but muſt fall to labour and work hard for their living. Nine of the ten never acknowledge their clenſing to be a mercy, onely one returns and is thankful, which our Saviour approves, and reproves the other.</p>
+            <p>Others with-old divine praiſe, through timerouſ<g ref="char:EOLhyphen"/>neſs, and evil modeſty and ſinful fear, that ſmo<g ref="char:EOLhyphen"/>ther the praiſes of God with a multitude of jealou<g ref="char:EOLhyphen"/>ſies, poſſibilities of ill conſequences, and the like. There were ſuch in Chriſts time that <hi>believed</hi> on him, but were afraid to <hi>confeſs</hi> him, to whom he ſaies, He that <hi>denies</hi> me before <hi>men,</hi> him will I <hi>de<g ref="char:EOLhyphen"/>ny</hi> before my <hi>father;</hi> and his holy <hi>Angels: Without</hi> 
+               <note place="margin">
+                  <hi>Rev.</hi> 21. 6.</note> are the <hi>fearful.</hi>
+            </p>
+            <p>3. Some are partial in the praiſe of God, that neither deny nor with-hold, but leſſen it, and ſhorten this part in times of trouble, contrary to the courſe of <hi>Daniel</hi> here; he praiſed God now as he did <hi>aforetime</hi> in his greateſt ſtate, and why ſhould afflictions abate any thing of our praiſes, when divine <hi>love</hi> or <hi>hatred</hi> is not diſcerned in the
+<pb n="20" facs="tcp:52765:13"/> things of providence. The more this Garment of fleſh is worn, the clearer the Sun of Righteouſneſs is ſeen through. We have a gracious Father, that will not ſee us want; when this old ſuite of our na<g ref="char:EOLhyphen"/>tural body is done, we ſhall have a new and ſpiri<g ref="char:EOLhyphen"/>tual one; and the ſoul that poſſeſſeth the leaſt ſenſe of divine love, is convinc'd of more mercy then ever he can expreſs in his beſt and higheſt praiſe. 'Twas <hi>Abrahams</hi> fault, that while he com<g ref="char:EOLhyphen"/>plains of the want of a <hi>child,</hi> he prizes not the pre<g ref="char:EOLhyphen"/>ſence of his heavenly <hi>father; Rachel</hi> was to blame, ſhe had a loving husband, a fair eſtate, her ſer<g ref="char:EOLhyphen"/>vants about her and one Son, which onely encra<g ref="char:EOLhyphen"/>ſed her deſire, ſhe named him <hi>Joſeph,</hi> cryes, <hi>Addat Jehovh,</hi> takes him as the pledge of another, is all for an addition, till at laſt comes <hi>Benoni,</hi> the Son of her ſorrow, and death. Inordinate deſires for temporal comfort, with the ungrateful conceal<g ref="char:EOLhyphen"/>ment of bleſſings received, is very diſpleaſing to God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> VVe might hereunto ſubjoyn a corrective for the ſpleen of Adverſaries, the vanity of their envy is clearly ſeen; its folly to juſtle with him you cannot overthrow. Enraged minds will not be ſa<g ref="char:EOLhyphen"/>tisfied with leſs then the diſtreſs and deſpair of them they oppoſe. The envious man wants full as much as the envied hath. If <hi>Hamans</hi> wrath be kindled, not <hi>Mordecai</hi> alone, but the whole Nation of the Jews ſhall be a ſacrifice to that flame; but the word of his friends would be thought on. If <hi>Mordecai</hi> be of the ſeed of the Jews, before whom <note place="margin">
+                  <hi>Eſter</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 13.</note> thou haſt begun to fall, thou ſhalt not prevail againſt him, but ſhall ſurely fall before him.</p>
+            <pb n="21" facs="tcp:52765:13"/>
+            <p> It ſometimes fares with Adverſaries, as with thoſe three men that caſt in <hi>Daniels</hi> companions into the fiery furnace; they were devoured of thoſe flames, prepared to conſume Gods ſervants, who through his mercy were preſerved. The ſer<g ref="char:EOLhyphen"/>vants of God have a real ſpirituall defenſitive againſt fires of wrath, and waters of trouble, and 'tis Gods <hi>promiſe</hi> to his Elect, (who can never fall <note place="margin">Iſa. 43. 2.</note> below joy and praiſe) and moleſtations give them <note place="margin">Acts 5. 41.</note> freſh occaſions to glory.</p>
+            <p>The remaining Uſes are more comfortable.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>3</label> We ſee a great difference between the Godly, and ungodly. 1. In reſpect of their eſtate and condition; the wicked man hath no ſolid comfort, if his portion be large; his <hi>Table</hi> is a ſnare to him, <note place="margin">Rom. 11. 9. 10.</note> as a trap baited with a chick, his <hi>back is bowed</hi> down like a beaſt, he converſeth wholly with this worlds good, and cannot look up, he forgets his God, Whereas (on the other hand) a godly man faith with <hi>Paul,</hi> though <hi>troubled</hi> on every ſide, yet not <note place="margin">2 Gor. 4. 8. 9.</note> 
+               <hi>distreſſed;</hi> though perplexed, not in <hi>diſpair; perſe<g ref="char:EOLhyphen"/>cuted,</hi> but not <hi>forſaken; caſt down,</hi> but not <hi>deſtroyed.</hi> Grace hath it's freſh ſprings alwayes hotteſt in winter. The ſpirit of conſolation (as the wind) breathes where and when it liſteth, by night as well as by day. Divine favour (as of old to the Iſraelites in the wilderneſs) is a pillar of <hi>fire,</hi> clear and comfortable in the <hi>night</hi> of adverſity, when many times in the <hi>day</hi> of proſperity its <hi>cloudy.</hi>
+            </p>
+            <p>2. So their carriage is contrary, the natural man is hardly drawn to acknowledg, or bleſs God in abundance, <hi>Nebuchadnezzar</hi> in his pride hath lofty looks, which the Lord brings down, and thus
+<pb n="22" facs="tcp:52765:14"/> vaunteth in his Pallace (viewing his Royal City) Is not this great <hi>Babylon</hi> that I have built for the houſe of the Kingdom, by the <hi>might</hi> of my power, and the <hi>honour</hi> of m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majeſty? here's little thanks to God; for all this <hi>Daniel</hi> tells him, that before God hath done with him he ſhall be convinced of his intereſt, in all theſe things, and that he <hi>diſpo<g ref="char:EOLhyphen"/>ſeth</hi> them, according to his own good pleaſure. And look upon a graceleſs wretch in diſtreſs, and he frets himſelf, curſes, blaſphemes; and indeed his carriage is ſo uncomly, that it would trouble us to write or read it. But with the gracious ſoul 'tis not ſo, he hath his ſongs in the night, the conſola<g ref="char:EOLhyphen"/>tions of God are ſtronger for his joy, then tribu<g ref="char:EOLhyphen"/>lations can be for his dejection; he hath the oyl of grace and gladneſs, which alwayes gets upper<g ref="char:EOLhyphen"/>moſt, and floats upon the waters of affliction, he triumphs over trouble, he bleſſes and curſes not.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>4</label> This diſcovers the reaſon of Chriſtians high adventures, they never engage their beſt eſtate, they have a <hi>hidden</hi> life, and comforts thereunto <note place="margin">Col. 3. 3.</note> belonging in a ſafe hand. Its ſaid, the Indians caſt their Gold to the Spaniards, and laught to ſee the ſcuffle. Some great men will ſport away too much, yet ſcarce feel the loſs of it. Theeves may break in and ſteal houſhold goods, but they cannot carry away Land. The Law ſecures our earthly, the Goſpel our heavenly inheritance. A Chriſtian for Chriſt makes little of wealth, liberty, and life too. Chriſt, when he bids his friends not fear them that can kill the <hi>body,</hi> he backs his counſel with Argu<g ref="char:EOLhyphen"/>ments <note place="margin">Luk. 12. 4. 5.</note> from the depths beneath, and heights above the eternal rewards of the evil and good; the one
+<pb n="23" facs="tcp:52765:14"/> ſhall be <hi>killed</hi> and caſt into <hi>hell;</hi> (better my body burn here, then body and ſoul forever in hell, ſayes the Martyr) And he further adds, He that <hi>con<g ref="char:EOLhyphen"/>feſſeth</hi> 
+               <note place="margin">v. 8.</note> me before men, him ſhall the Son of man alſo <hi>confeſs</hi> before the Angels of God. He that <hi>witneſſeth</hi> a good confeſſion with his blood, ſhall find the day of his death, the ſouls birth-day unto perfect glory.</p>
+            <p>And it concerns the people of God to be zea<g ref="char:EOLhyphen"/>lous, and valiant; for God keeps up the ſtage of this world, that they may with honour act their parts; their anſwer of God to the ſouls of them that were <hi>ſlain</hi> for the word of God, and the teſti<g ref="char:EOLhyphen"/>mony <note place="margin">Rev. 6. 9. 11.</note> which they held, is this, that they ſhould reſt yet for a little ſeaſon, untill their fellow-ſer<g ref="char:EOLhyphen"/>vants alſo, and their brethren that <hi>ſhould</hi> be <hi>killed,</hi> as they were, ſhould be fulfilled,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>5</label> Hence comes the increaſe of mercy to Gods people, they are faithful in that which is little; I had but a <hi>little,</hi> and did <hi>nothing</hi> with it, ſaid the evil ſervant: I have made <hi>much</hi> of my <hi>little,</hi> ſaid the good ſervant; and what ſaid the Lord? <hi>Thou ſhalt have more.</hi> The words of Chriſt to <hi>Natha<g ref="char:EOLhyphen"/>niel,</hi> 
+               <note place="margin">Joh. 1.</note> we may well apply; Becauſe, I ſaid, I ſaw thee under the Fig-tree; believeſt thou? (thou ſhalt have more matter for thy faith to work upon) thou ſhalt ſee greater things then theſe. A Tenant that paid his Rent well in the VVars, ſhall be bet<g ref="char:EOLhyphen"/>ter truſted by his Landlord in times of peace; haſt thou in thy moleſtations brought me praiſe, thou ſhalt not want conſolations, ſaith our Lord. If a Son improve a ſmall Stock-well, the father cares not how great his truſt be. VVhat Chriſt ſpeaks of
+<pb n="24" facs="tcp:52765:15" rendition="simple:additions"/> himſelf, belongs alſo to Miniſters; He whom God hath <hi>ſent,</hi> and <hi>ſpeaketh</hi> the words of God (is faith<g ref="char:EOLhyphen"/>ful in <note place="margin">Joh. 3. 34.</note> the diſcharge of his Miniſtry) God giveth not his ſpirit by <hi>meaſure</hi> to him, he ſhall not be <note place="margin">Joh. 4. 14, 7. 38.</note> ſtinted in Gifts or Graces: ſo a Chriſtian that in diſtreſs, ſpeaks the words of Gods praiſe, ſhall obtain his mercy without meaſure.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>6</label> God hath aſſigned for his ſervants even a heaven upon earth, their life is Angelical, a life of praiſe. By the golden <hi>Cherubins</hi> in the Temple, is not only meant our protection from, and under them, but our communion with them in holineſs and praiſes; this is evident, in that two Cherubins co<g ref="char:EOLhyphen"/>vered the mercy ſeat, where the <hi>Oracle</hi> was; thus ſignifying that where Gods preſence and his mer<g ref="char:EOLhyphen"/>cy is vouchſafed, there Men and Angels rejoyce. And this is drawn to the life in <hi>Iſaiah's</hi> viſion, where the whole <hi>Quire</hi> ſing, <hi>Holy, holy, holy,</hi> is the <hi>Lord</hi> of <hi>Hoſts,</hi> heaven an earth is full of thy glory.</p>
+            <p>Though their joy be not alwayes <hi>full,</hi> yet it al<g ref="char:EOLhyphen"/>waies <hi>remains</hi> in them, and is ſufficient for the work of praiſe; though they have ſeemingly ſad hours, yet with the husbandman they plough in hope, and ſow <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hope, their tears are ſpiced with joyes, and they conclude (as <hi>Daniel</hi> here in greateſt danger) their ſupplications, with confeſſions of his praiſe. They truſt the onely wiſe God to order their good in all conditions and providences, they thankful<g ref="char:EOLhyphen"/>ly take the <hi>cup</hi> their heavenly <hi>father</hi> gives them; they ſay with their Saviour, not ours, <hi>But thy will be done.</hi> Amen.</p>
+            <closer>Halelujah.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
